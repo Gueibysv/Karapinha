@@ -1,4 +1,3 @@
-# Karapinha
 # Karapinha – Salon Booking System
 
 💇‍♂️ Web application developed for the **Web Applications** course at **ISPTEC**, aimed at managing **appointments for a beauty salon**.
