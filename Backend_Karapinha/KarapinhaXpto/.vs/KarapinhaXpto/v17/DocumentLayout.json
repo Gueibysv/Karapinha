@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|solutionrelative:models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\repository\\servicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\repository\\servicorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\models\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|solutionrelative:models\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\controllers\\utilizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\controllers\\utilizadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\controllers\\marcacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\controllers\\marcacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\repository\\utilizadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\repository\\utilizadorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38882138-BF19-4A2D-B547-449DCE65D728}|KarapinhaAPI.DAL\\KarapinhaAPI.DAL.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dal\\migrations\\20240614150930_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38882138-BF19-4A2D-B547-449DCE65D728}|KarapinhaAPI.DAL\\KarapinhaAPI.DAL.csproj|solutionrelative:karapinhaapi.dal\\migrations\\20240614150930_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\seedhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\seedhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\utilizadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\utilizadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\interfaces\\iutilizadorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\interfaces\\iutilizadorinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38882138-BF19-4A2D-B547-449DCE65D728}|KarapinhaAPI.DAL\\KarapinhaAPI.DAL.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38882138-BF19-4A2D-B547-449DCE65D728}|KarapinhaAPI.DAL\\KarapinhaAPI.DAL.csproj|solutionrelative:karapinhaapi.dal\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\universallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\universallogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\servicomarcacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\servicomarcacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\servicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\servicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\profissionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\profissionaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\marcacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\marcacaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}|KarapinhaAPI.DTO\\KarapinhaAPI.DTO.csproj|solutionrelative:karapinhaapi.dto\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\controllers\\servicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\controllers\\profissionalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\controllers\\profissionalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\repository\\profissionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\repository\\profissionalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\interfaces\\iprofissionalinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\interfaces\\iprofissionalinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\repository\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\interfaces\\icategoriainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\interfaces\\icategoriainterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\models\\servicomarcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|solutionrelative:models\\servicomarcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\models\\servicoprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|solutionrelative:models\\servicoprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\repository\\marcacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\repository\\marcacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\interfaces\\imarcacaointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\interfaces\\imarcacaointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|solutionrelative:models\\profissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\interfaces\\iservicointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\interfaces\\iservicointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\shared\\interfaces\\iservicomarcacaointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDADAB84-4367-4031-BC09-2CB257CA0E64}|Shared\\Shared.csproj|solutionrelative:shared\\interfaces\\iservicomarcacaointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gueiby SIlva\\Documents\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240614130403_first-migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4C62389-5C29-4AD2-A760-86128EBF08BD}|Models\\KarapinhaAPI.Models.csproj|solutionrelative:models\\servico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\karapinhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\karapinhaapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaxpto\\karapinhaxpto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{08D0D7B3-DFA5-497F-9F23-D946C8908A71}|KarapinhaXpto\\KarapinhaAPI.csproj|solutionrelative:karapinhaxpto\\karapinhaxpto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38882138-BF19-4A2D-B547-449DCE65D728}|KarapinhaAPI.DAL\\KarapinhaAPI.DAL.csproj|c:\\users\\gueiby silva\\desktop\\isptec\\terceiro_ano_segundo_semestre\\aw\\projetofinal_aw\\karapinha_xpto\\karapinhaxpto\\karapinhaapi.dal\\migrations\\20240722151023_addsenhatoprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38882138-BF19-4A2D-B547-449DCE65D728}|KarapinhaAPI.DAL\\KarapinhaAPI.DAL.csproj|solutionrelative:karapinhaapi.dal\\migrations\\20240722151023_addsenhatoprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\SeedHelpers.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\SeedHelpers.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\SeedHelpers.cs",
+              "RelativeToolTip": "KarapinhaXpto\\SeedHelpers.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:10:21.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\ServicoRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Repository\\ServicoRepository.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\ServicoRepository.cs",
+              "RelativeToolTip": "Shared\\Repository\\ServicoRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAASwDoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:30:21.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Program.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Program.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Program.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:11:32.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Utilizador.cs",
+              "RelativeDocumentMoniker": "Models\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Utilizador.cs",
+              "RelativeToolTip": "Models\\Utilizador.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAA5wCUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:23:06.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Marcacao.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Marcacao.cs",
+              "RelativeDocumentMoniker": "Models\\Marcacao.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Marcacao.cs",
+              "RelativeToolTip": "Models\\Marcacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:24:12.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\LoginDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T23:30:14.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:43:10.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\appsettings.json",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\appsettings.json",
+              "RelativeToolTip": "KarapinhaXpto\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T23:32:40.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UtilizadorController.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\UtilizadorController.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Controllers\\UtilizadorController.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\UtilizadorController.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Controllers\\UtilizadorController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwHkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:52:30.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MarcacaoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\MarcacaoController.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Controllers\\MarcacaoController.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\MarcacaoController.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Controllers\\MarcacaoController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAmwOYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:33:27.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UtilizadorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\UtilizadorRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Repository\\UtilizadorRepository.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\UtilizadorRepository.cs",
+              "RelativeToolTip": "Shared\\Repository\\UtilizadorRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAwC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:34:03.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240614150930_first-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240614150930_first-migration.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DAL\\Migrations\\20240614150930_first-migration.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240614150930_first-migration.cs",
+              "RelativeToolTip": "KarapinhaAPI.DAL\\Migrations\\20240614150930_first-migration.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:09:31.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Helper\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:24:21.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UtilizadorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\UtilizadorDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\UtilizadorDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\UtilizadorDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\UtilizadorDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:02:14.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUtilizadorInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IUtilizadorInterface.cs",
+              "RelativeDocumentMoniker": "Shared\\Interfaces\\IUtilizadorInterface.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IUtilizadorInterface.cs",
+              "RelativeToolTip": "Shared\\Interfaces\\IUtilizadorInterface.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T23:31:48.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\DataContext.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DAL\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\DataContext.cs",
+              "RelativeToolTip": "KarapinhaAPI.DAL\\DataContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:03:29.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UniversalLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\UniversalLoginDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\UniversalLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\UniversalLoginDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\UniversalLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:33:54.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServicoMarcacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\ServicoMarcacaoDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\ServicoMarcacaoDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\ServicoMarcacaoDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\ServicoMarcacaoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T00:45:11.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServicoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\ServicoDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\ServicoDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\ServicoDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\ServicoDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:40:49.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProfissionalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\ProfissionalDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\ProfissionalDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\ProfissionalDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\ProfissionalDTO.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:19:31.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MarcacaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\MarcacaoDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\MarcacaoDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\MarcacaoDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\MarcacaoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:31:45.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\CategoriaDTO.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DTO\\CategoriaDTO.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DTO\\CategoriaDTO.cs",
+              "RelativeToolTip": "KarapinhaAPI.DTO\\CategoriaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T08:02:16.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ServicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\ServicoController.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Controllers\\ServicoController.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\ServicoController.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Controllers\\ServicoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T10:33:40.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:24:35.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwBoAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:58:22.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProfissionalController.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\ProfissionalController.cs",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Controllers\\ProfissionalController.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Controllers\\ProfissionalController.cs",
+              "RelativeToolTip": "KarapinhaXpto\\Controllers\\ProfissionalController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:24:14.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProfissionalRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\ProfissionalRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Repository\\ProfissionalRepository.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\ProfissionalRepository.cs",
+              "RelativeToolTip": "Shared\\Repository\\ProfissionalRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:09:16.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProfissionalInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IProfissionalInterface.cs",
+              "RelativeDocumentMoniker": "Shared\\Interfaces\\IProfissionalInterface.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IProfissionalInterface.cs",
+              "RelativeToolTip": "Shared\\Interfaces\\IProfissionalInterface.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:00:45.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Repository\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\CategoriaRepository.cs",
+              "RelativeToolTip": "Shared\\Repository\\CategoriaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:42:09.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICategoriaInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\ICategoriaInterface.cs",
+              "RelativeDocumentMoniker": "Shared\\Interfaces\\ICategoriaInterface.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\ICategoriaInterface.cs",
+              "RelativeToolTip": "Shared\\Interfaces\\ICategoriaInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:34:26.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServicoMarcacao.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\ServicoMarcacao.cs",
+              "RelativeDocumentMoniker": "Models\\ServicoMarcacao.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\ServicoMarcacao.cs",
+              "RelativeToolTip": "Models\\ServicoMarcacao.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:22:10.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServicoProfissional.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\ServicoProfissional.cs",
+              "RelativeDocumentMoniker": "Models\\ServicoProfissional.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\ServicoProfissional.cs",
+              "RelativeToolTip": "Models\\ServicoProfissional.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:24:16.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MarcacaoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\MarcacaoRepository.cs",
+              "RelativeDocumentMoniker": "Shared\\Repository\\MarcacaoRepository.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Repository\\MarcacaoRepository.cs",
+              "RelativeToolTip": "Shared\\Repository\\MarcacaoRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAIBQwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:26:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IMarcacaoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IMarcacaoInterface.cs",
+              "RelativeDocumentMoniker": "Shared\\Interfaces\\IMarcacaoInterface.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IMarcacaoInterface.cs",
+              "RelativeToolTip": "Shared\\Interfaces\\IMarcacaoInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:06:47.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240722151023_AddSenhaToProfissional.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240722151023_AddSenhaToProfissional.cs",
+              "RelativeDocumentMoniker": "KarapinhaAPI.DAL\\Migrations\\20240722151023_AddSenhaToProfissional.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240722151023_AddSenhaToProfissional.cs",
+              "RelativeToolTip": "KarapinhaAPI.DAL\\Migrations\\20240722151023_AddSenhaToProfissional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:10:24.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Profissional.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Profissional.cs",
+              "RelativeDocumentMoniker": "Models\\Profissional.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Profissional.cs",
+              "RelativeToolTip": "Models\\Profissional.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA+wCgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:23:51.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IServicoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IServicoInterface.cs",
+              "RelativeDocumentMoniker": "Shared\\Interfaces\\IServicoInterface.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IServicoInterface.cs",
+              "RelativeToolTip": "Shared\\Interfaces\\IServicoInterface.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:24:27.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IServicoMarcacaoInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IServicoMarcacaoInterface.cs",
+              "RelativeDocumentMoniker": "Shared\\Interfaces\\IServicoMarcacaoInterface.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Shared\\Interfaces\\IServicoMarcacaoInterface.cs",
+              "RelativeToolTip": "Shared\\Interfaces\\IServicoMarcacaoInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:49:36.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Servico.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Servico.cs",
+              "RelativeDocumentMoniker": "Models\\Servico.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\Models\\Servico.cs",
+              "RelativeToolTip": "Models\\Servico.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T01:23:44.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\appsettings.Development.json",
+              "RelativeToolTip": "KarapinhaXpto\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T12:16:48.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\Properties\\launchSettings.json",
+              "RelativeToolTip": "KarapinhaXpto\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T16:52:24.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "KarapinhaAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\KarapinhaAPI.csproj",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\KarapinhaAPI.csproj",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\KarapinhaAPI.csproj",
+              "RelativeToolTip": "KarapinhaXpto\\KarapinhaAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-14T01:22:28.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KarapinhaXpto.http",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\KarapinhaXpto.http",
+              "RelativeDocumentMoniker": "KarapinhaXpto\\KarapinhaXpto.http",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Desktop\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaXpto\\KarapinhaXpto.http",
+              "RelativeToolTip": "KarapinhaXpto\\KarapinhaXpto.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-12T05:20:05.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240614130403_first-migration.cs",
+              "DocumentMoniker": "C:\\Users\\Gueiby SIlva\\Documents\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240614130403_first-migration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Documents\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240614130403_first-migration.cs",
+              "ToolTip": "C:\\Users\\Gueiby SIlva\\Documents\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240614130403_first-migration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Documents\\ISPTEC\\Terceiro_Ano_Segundo_Semestre\\AW\\ProjetoFinal_AW\\Karapinha_Xpto\\KarapinhaXpto\\KarapinhaAPI.DAL\\Migrations\\20240614130403_first-migration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:04:03.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\bin\Debug\net8.0\KarapinhaAPI.CONTROLLERS.deps.json
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\bin\Debug\net8.0\KarapinhaAPI.CONTROLLERS.dll
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\bin\Debug\net8.0\KarapinhaAPI.CONTROLLERS.pdb
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\KarapinhaAPI.CONTROLLERS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\KarapinhaAPI.CONTROLLERS.AssemblyInfoInputs.cache
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\KarapinhaAPI.CONTROLLERS.AssemblyInfo.cs
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\KarapinhaAPI.CONTROLLERS.csproj.CoreCompileInputs.cache
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\KarapinhaAPI.CONTROLLERS.dll
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\refint\KarapinhaAPI.CONTROLLERS.dll
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\KarapinhaAPI.CONTROLLERS.pdb
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.CONTROLLERS\obj\Debug\net8.0\ref\KarapinhaAPI.CONTROLLERS.dll

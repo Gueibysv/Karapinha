@@ -1,0 +1,5 @@
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.Repository\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.Repository\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.Repository\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.Repository\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\Users\Gueiby SIlva\Documents\ISPTEC\Terceiro_Ano_Segundo_Semestre\AW\ProjetoFinal_AW\Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.Repository\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache

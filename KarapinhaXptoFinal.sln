@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaAPI", "Karapinha_Xpto\KarapinhaXpto\KarapinhaXpto\KarapinhaAPI.csproj", "{08D0D7B3-DFA5-497F-9F23-D946C8908A71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaAPI.Models", "Karapinha_Xpto\KarapinhaXpto\Models\KarapinhaAPI.Models.csproj", "{D4C62389-5C29-4AD2-A760-86128EBF08BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaAPI.DAL", "Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.DAL\KarapinhaAPI.DAL.csproj", "{38882138-BF19-4A2D-B547-449DCE65D728}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KarapinhaAPI.DTO", "Karapinha_Xpto\KarapinhaXpto\KarapinhaAPI.DTO\KarapinhaAPI.DTO.csproj", "{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Karapinha_Xpto\KarapinhaXpto\Shared\Shared.csproj", "{BDADAB84-4367-4031-BC09-2CB257CA0E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D0D7B3-DFA5-497F-9F23-D946C8908A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D0D7B3-DFA5-497F-9F23-D946C8908A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D0D7B3-DFA5-497F-9F23-D946C8908A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D0D7B3-DFA5-497F-9F23-D946C8908A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C62389-5C29-4AD2-A760-86128EBF08BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C62389-5C29-4AD2-A760-86128EBF08BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C62389-5C29-4AD2-A760-86128EBF08BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C62389-5C29-4AD2-A760-86128EBF08BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38882138-BF19-4A2D-B547-449DCE65D728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38882138-BF19-4A2D-B547-449DCE65D728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38882138-BF19-4A2D-B547-449DCE65D728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38882138-BF19-4A2D-B547-449DCE65D728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEC3903-A69D-4B89-9DF7-FEBA82CC2E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDADAB84-4367-4031-BC09-2CB257CA0E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDADAB84-4367-4031-BC09-2CB257CA0E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDADAB84-4367-4031-BC09-2CB257CA0E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDADAB84-4367-4031-BC09-2CB257CA0E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A50D40-DF1D-4BC0-948C-6E2E8C504D26}
+	EndGlobalSection
+EndGlobal
